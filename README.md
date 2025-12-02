@@ -1,4 +1,5 @@
 # TanStack Query Crash Course
+Learned from this video: https://youtu.be/mPaCnwpFvZY
 
 <img width="1051" height="1590" alt="image" src="https://github.com/user-attachments/assets/247c69f7-c2cb-47c5-9552-01f291b20c19" />
 
