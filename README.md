@@ -1,5 +1,7 @@
 # TanStack Query Crash Course
 
+<img width="1051" height="1590" alt="image" src="https://github.com/user-attachments/assets/247c69f7-c2cb-47c5-9552-01f291b20c19" />
+
 A hands-on learning project exploring TanStack Query (React Query) for server state management in React.
 
 ## What I Learned
